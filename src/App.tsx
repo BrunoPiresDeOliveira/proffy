@@ -1,7 +1,4 @@
 import React from 'react'; //Sempre importar essa dependência.
-
-import Landing from './pages/Landing';
-
 import './assets/styles/global.css';
 import Routes from './routes';
 
